@@ -151,6 +151,9 @@ This process may take a few minutes. Once completed, it will output the **AMI ID
 
 ![image](https://github.com/user-attachments/assets/83ad6b03-d072-4b38-af5c-ef69db480332)
 
+![image](https://github.com/user-attachments/assets/7c95b4e2-386d-4ce3-a9a7-3bc68432641b)
+
+
 
 
 ## Conclusion

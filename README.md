@@ -36,8 +36,7 @@ Before using Packer, you need to create an IAM user and set up necessary permiss
    aws configure
    ```
    Enter the Access Key ID and Secret Access Key when prompted.
-<Screenshot>
-![image](https://github.com/user-attachments/assets/52eb0f61-b12a-47c2-9f4e-c77cffb67fbf)
+
 
 ---
 

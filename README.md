@@ -37,7 +37,7 @@ Before using Packer, you need to create an IAM user and set up necessary permiss
    ```
    Enter the Access Key ID and Secret Access Key when prompted.
 <Screenshot>
-![image](https://github.com/user-attachments/assets/904c35c0-9389-460e-8645-d3b2d92dd7b0)
+![image](https://github.com/user-attachments/assets/52eb0f61-b12a-47c2-9f4e-c77cffb67fbf)
 
 ---
 
